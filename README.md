@@ -44,3 +44,6 @@ Get user's information.
 
 Use [example in Pingze-github/common-oauth2-server](https://github.com/Pingze-github/passport-common-oauth2/tree/master/example/client) for test.
 
+## License
+
+[The MIT License](http://opensource.org/licenses/MIT)
