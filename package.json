@@ -44,7 +44,7 @@
   "name": "common-oauth2-server",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jaredhanson/common-oauth2-server.git"
+    "url": "git+ssh://git@github.com/Pingze-github/common-oauth2-server"
   },
   "scripts": {
     "start": "node index.js"
