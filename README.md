@@ -1,7 +1,7 @@
 
 # Common OAuth2 Server
 
-> A common implementation of OAuth2.0 Server, can access different account systems.
+> A common implementation of OAuth2.0 Server (Provider), can access different account systems.
 
 ## Start Server
 
@@ -39,4 +39,8 @@ Submit login.
 #### GET /api/user/detail
 
 Get user's information.
+
+## TEST with client
+
+Use [example in Pingze-github/common-oauth2-server](https://github.com/Pingze-github/passport-common-oauth2/tree/master/example/client) for test.
 
